@@ -7,7 +7,7 @@
 }
 
 :root {
-  --dark-color: #000;
+  --dark-color: #ff4242;
 }
 
 body {
@@ -33,9 +33,9 @@ body {
 
 .happy-woman-day {
   color: white;
-  font-size: 18px;
+  font-size: 12px;
   position: fixed;
-  top: 80px;
+  top: 20px;
 }
 
 .flowers {
