@@ -15,7 +15,7 @@ body {
   align-items: flex-end;
   justify-content: center;
   min-height: 100vh;
-  background-color: var(--dark-color);
+  background-color: linear-gradient(to right, #00b4db, #0083b0);
   overflow: hidden;
   perspective: 1000px;
   padding: 50px 0px;
@@ -33,9 +33,9 @@ body {
 
 .happy-woman-day {
   color: white;
-  font-size: 12px;
+  font-size: 18px;
   position: fixed;
-  top: 20px;
+  top: 80px;
 }
 
 .flowers {
